@@ -50,20 +50,7 @@ Here are some of the technologies I enjoy working with:
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   </p>
 
----
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alibosnina&show_icons=true&theme=radical&rank_icon=github" alt="Ali's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibosnina&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
-
----
 
 ## 📫 How to Reach Me:
 
